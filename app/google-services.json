@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497488695256",
+    "project_id": "chat-app-a10cb",
+    "storage_bucket": "chat-app-a10cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497488695256:android:a9e3898eddcfa6804becad",
+        "android_client_info": {
+          "package_name": "com.example.kotlin.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMX5bHFDWMJM6KwR8uQIWwBBiWr5FKh6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
